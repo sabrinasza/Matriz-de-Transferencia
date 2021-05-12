@@ -1,4 +1,5 @@
-%%Andrey Chaves, Igor Lima & Sabrina Sá 
+% Igor Lima & Sabrina Sá 
+% Orientador: Andrey Chaves
 clc; clear all;
 
 a0 = 0.5292; %raio de Bohr
