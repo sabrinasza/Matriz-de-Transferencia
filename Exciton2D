@@ -1,3 +1,5 @@
+%Andrey Chaves & Sabrina da Silva Sá
+
 clc; clear all;
 
 N = 10000; %numero de pontos no eixo da posição
